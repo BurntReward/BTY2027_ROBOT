@@ -16,5 +16,6 @@ Toplam 3 Led, Arduino, 2 Buton ve Servodan oluşan devremiz AÇ butonuna basıld
 Projemizin kodlarına ulaşmak için [tıklayınız](https://github.com/BurntReward/BTY2027_ROBOT/blob/main/G%C3%BCvenlik%20Kap%C4%B1s%C4%B1%20Devresi%20Kodu.ino)
 
 Projemizin görseli:
+
 ![Güvenlik Kapısı Devresinin Görseli - TinkerCAD ile oluşturulmuştur.]
 (https://github.com/BurntReward/BTY2027_ROBOT/blob/main/G%C3%BCvenlik%20Kap%C4%B1s%C4%B1%20Devresi.png)
